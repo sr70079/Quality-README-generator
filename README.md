@@ -1,7 +1,9 @@
 
-# Quality README generator
+# Quality README Generator
 
 UNC Bootcamp Homework #9
+
+[README Generator](https://drive.google.com/file/d/1Sh7OLq-NaQlB6UIJSNjMe8hOdX_VfCyP/view)
 
 ![GitHub License]()
 
@@ -39,7 +41,7 @@ This project is licensed under the APACHE 2.0 license
 
 ### Contributing: 
 
-please email the creator 
+please email the creator
 
 ### Tests: 
 
@@ -52,11 +54,11 @@ npm test
 
 ### Questions: 
 
-If you have any issues about the repo, please contact me via email at sr70079
+If you have any issues about the repo, please contact me via email at sr70079@gmail.com
 
 You can find more of my work at sr70079
 
-### Credits 
+### Credits: 
 
 npm inquirer
 
